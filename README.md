@@ -54,6 +54,7 @@ I am currently applying for **PhD positions** in HCI, ubiquitous and mobile heal
 |---|---|---|
 | [Spondon Stress Detection](https://github.com/Sh-Ifti/spondon-stress-wearable) | Analysis code for my COMPASS 2026 paper: LOSO stress detection from PPG, GSR and temperature (75.0% on unseen participants) | Python, scikit-learn, SciPy |
 | [Sleep Monitoring Wearable](https://github.com/Sh-Ifti/sleep-monitoring-wearable) | Low-cost wrist wearable recording movement, heart rate and ambient light to estimate sleep duration and quality | Arduino, MPU6050, PPG, Python |
+| [Kitchen Leak Monitor](https://github.com/Sh-Ifti/kitchen-leak-monitor-stm32) | STM32 alarm that detects gas leaks (MQ-2) and fire (KY-026), with OLED status and distinct buzzer patterns, for about US$17 | C, STM32 HAL, CubeMX |
 | [Bangladesh Flood Mapping](https://github.com/Sh-Ifti/bangladesh-flood-mapping) | Flood inundation maps (2020–2022) from Sentinel-1 SAR imagery and analysis of historical government flood records | Google Earth Engine, JavaScript |
 | [Airbnb Price Prediction](https://github.com/Sh-Ifti/airbnb-price-prediction-europe) | Six regression models compared; Random Forest best (R² = 0.854) for listing prices across ten European cities | Python, scikit-learn, pandas |
 | [OnnoMitro](https://github.com/Sh-Ifti/onnomitro-meal-recommender) | Personalized Bangladeshi meal recommendations from a new 305-recipe dataset; median 22 kcal deviation from daily targets (senior design project) | Python, Flask, Beautiful Soup |
