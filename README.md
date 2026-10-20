@@ -3,7 +3,7 @@
 **Full-time Research Assistant, [Design Inclusion and Access Lab (DIAL)](https://sites.google.com/view/nsuhci/home), North South University**  
 Supervised by [Dr. Nova Ahmed](https://ece.northsouth.edu/people/nova-ahmed/) · B.Sc. in Computer Science & Engineering, NSU (2024)
 
-I work in **Human-Computer Interaction**, building and studying **low-cost wearable and physiological sensing systems for health and wellbeing in resource-constrained settings**. My work spans custom sensing hardware (ESP32, PPG, GSR, IMU), machine learning on physiological signals such as HRV and GSR, and mixed-methods fieldwork with the communities these technologies are meant to serve.
+I work in **Human-Computer Interaction**, studying how people in **underserved and resource-constrained communities** experience health, wellbeing and technology, and designing technology with them. My research is grounded in **mixed-methods fieldwork**: interviews, surveys, workshops and co-design with university students, low-literate women, physicians, commuters and young people in Bangladesh. When a problem calls for it, I also build **low-cost sensing systems** (ESP32, PPG, GSR, IMU) and machine learning models that work for people they have never seen.
 
 I am currently applying for **PhD positions** in HCI, ubiquitous and mobile health, and ICTD.
 
@@ -65,7 +65,7 @@ I am currently applying for **PhD positions** in HCI, ubiquitous and mobile heal
 - **[Regulated smart device for children](https://sh-ifti.github.io/projects/15_child_device/)** (CSE 498R, directed research): ARM TrustZone-based parental-control device design, informed by a survey of 46 parents
 
 ### Skills
+**Research methods:** mixed methods, user studies, workshops and co-design, PSS / PHQ-9 instruments  
 **Sensing & hardware:** ESP32, Arduino, BLE, ICM20948 IMU, MAX30102, GSR, Empatica EmbracePlus  
 **Signal analysis & ML:** HRV and GSR feature extraction, Random Forest, LOSO cross-validation, scikit-learn, pandas, NumPy, Matplotlib, deep learning  
 **Programming:** Python, C++, Java, JavaScript, SQL, Android  
-**Research methods:** mixed methods, user studies, workshops and co-design, PSS / PHQ-9 instruments
