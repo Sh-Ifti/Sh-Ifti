@@ -28,7 +28,7 @@ I am currently applying for **PhD positions** in HCI, ubiquitous and mobile heal
   Co-author · *ACM CHI 2027*  
   Nationwide mixed-methods study of tertiary student mental health in Bangladesh (HEAT project)
 - **SHONCHALON: A Wearable for Real-Time Multi-Class Exercise Recognition and Feedback in Post-Stroke Upper-Limb Rehabilitation**  
-  *IEEE PerCom 2027*  
+  Co-author · *IEEE PerCom 2027*  
   Low-cost ESP32 + IMU wearable with an Android app that recognizes five rehabilitation exercises and gives real-time feedback
 
 **In preparation**
