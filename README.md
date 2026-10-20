@@ -1,6 +1,6 @@
 # Hi, I'm Shahariar Ifti
 
-**Full-time Research Assistant, [Design Inclusion and Access Lab (DIAL)](https://sites.google.com/view/nsuhci/home), North South University**  
+**Research Assistant & Data Scientist, [Design Inclusion and Access Lab (DIAL)](https://sites.google.com/view/nsuhci/home), North South University**  
 Supervised by Dr. Nova Ahmed · B.Sc. in Computer Science & Engineering, NSU (2024)
 
 I work in **Human-Computer Interaction**, building and studying **low-cost wearable and physiological sensing systems for health and wellbeing in resource-constrained settings**. My work spans custom sensing hardware (ESP32, PPG, GSR, IMU), machine learning on physiological signals such as HRV and GSR, and mixed-methods fieldwork with the communities these technologies are meant to serve.
