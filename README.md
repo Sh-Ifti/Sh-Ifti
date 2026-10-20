@@ -7,7 +7,7 @@ I work in **Human-Computer Interaction**, building and studying **low-cost weara
 
 I am currently applying for **PhD positions** in HCI, ubiquitous and mobile health, and ICTD.
 
-[CV](https://github.com/Sh-Ifti/Sh-Ifti/blob/main/CV_Shahariar_Ifti.pdf) · [ORCID](https://orcid.org/0009-0005-1092-2599) · [LinkedIn](https://www.linkedin.com/in/shahariar-ifti-6b23831a4/) · shahariarifti16@gmail.com
+[Website](https://sh-ifti.github.io) · [CV](https://github.com/Sh-Ifti/Sh-Ifti/blob/main/CV_Shahariar_Ifti.pdf) · [ORCID](https://orcid.org/0009-0005-1092-2599) · [LinkedIn](https://www.linkedin.com/in/shahariar-ifti-6b23831a4/) · shahariarifti16@gmail.com
 
 ---
 
