@@ -56,7 +56,7 @@ I am currently applying for **PhD positions** in HCI, ubiquitous and mobile heal
 | [Sleep Monitoring Wearable](https://github.com/Sh-Ifti/sleep-monitoring-wearable) | Low-cost wrist wearable recording movement, heart rate and ambient light to estimate sleep duration and quality | Arduino, MPU6050, PPG, Python |
 | [Bangladesh Flood Mapping](https://github.com/Sh-Ifti/bangladesh-flood-mapping) | Flood inundation maps (2020–2022) from Sentinel-1 SAR imagery and analysis of historical government flood records | Google Earth Engine, JavaScript |
 | [Airbnb Price Prediction](https://github.com/Sh-Ifti/airbnb-price-prediction-europe) | Six regression models compared; Random Forest best (R² = 0.854) for listing prices across ten European cities | Python, scikit-learn, pandas |
-| [OnnoMeal](https://github.com/Sh-Ifti/onnomeal-meal-recommender) | Personalized meal recommendations from traditional Bangladeshi recipes and local ingredients | Python, JavaScript |
+| [OnnoMitro](https://github.com/Sh-Ifti/onnomitro-meal-recommender) | Personalized Bangladeshi meal recommendations from a new 305-recipe dataset; median 22 kcal deviation from daily targets (senior design project) | Python, Flask, Beautiful Soup |
 
 ### Skills
 **Sensing & hardware:** ESP32, Arduino, BLE, ICM20948 IMU, MAX30102, GSR, Empatica EmbracePlus  
