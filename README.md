@@ -59,6 +59,11 @@ I am currently applying for **PhD positions** in HCI, ubiquitous and mobile heal
 | [Airbnb Price Prediction](https://github.com/Sh-Ifti/airbnb-price-prediction-europe) | Six regression models compared; Random Forest best (R² = 0.854) for listing prices across ten European cities | Python, scikit-learn, pandas |
 | [OnnoMitro](https://github.com/Sh-Ifti/onnomitro-meal-recommender) | Personalized Bangladeshi meal recommendations from a new 305-recipe dataset; median 22 kcal deviation from daily targets (senior design project) | Python, Flask, Beautiful Soup |
 
+### Other course projects
+- **[Saliency detection with knowledge distillation](https://sh-ifti.github.io/projects/13_saliency_kd/)** (CSE 465): distilled a large unsupervised saliency model (PEEKABOO) into a ~5M-parameter U-KAN student; max F<sub>β</sub> 0.952 on ECSSD
+- **[Bengali programming language](https://sh-ifti.github.io/projects/14_bangla_compiler/)** (CSE 425): BNF grammar and a C++/LLVM lexer and parser for a compiled language with Bengali syntax for school students
+- **[Regulated smart device for children](https://sh-ifti.github.io/projects/15_child_device/)** (CSE 498R, directed research): ARM TrustZone-based parental-control device design, informed by a survey of 46 parents
+
 ### Skills
 **Sensing & hardware:** ESP32, Arduino, BLE, ICM20948 IMU, MAX30102, GSR, Empatica EmbracePlus  
 **Signal analysis & ML:** HRV and GSR feature extraction, Random Forest, LOSO cross-validation, scikit-learn, pandas, NumPy, Matplotlib, deep learning  
