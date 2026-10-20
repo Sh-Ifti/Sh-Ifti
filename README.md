@@ -24,8 +24,12 @@ I am currently applying for **PhD positions** in HCI, ubiquitous and mobile heal
   ESP32 wearable built from locally available sensors (PPG, GSR, temperature). HRV and GSR features, Random Forest classification, and leave-one-subject-out (LOSO) evaluation to test generalization to unseen people; 75.0% accuracy for binary acute stress detection.
 
 **Under review**
-- *Co-author* · CHI 2027 · Nationwide mixed-methods study of tertiary student mental health in Bangladesh (HEAT)
-- IEEE PerCom 2027 · Low-cost wearable for assessing the correctness of post-stroke upper-limb rehabilitation exercises
+- **"My Mind Is a Combination of My Body, My Money, and My Study": Contextualizing Mental Health Support Ecologies for Tertiary Students in Bangladesh**  
+  Co-author · *ACM CHI 2027*  
+  Nationwide mixed-methods study of tertiary student mental health in Bangladesh (HEAT project)
+- **SHONCHALON: A Wearable for Real-Time Multi-Class Exercise Recognition and Feedback in Post-Stroke Upper-Limb Rehabilitation**  
+  *IEEE PerCom 2027*  
+  Low-cost ESP32 + IMU wearable with an Android app that recognizes five rehabilitation exercises and gives real-time feedback
 
 **In preparation**
 - Technology adoption among low-literate women with physiological stress measurement and family-based mentoring · target: ACM IMWUT
@@ -35,7 +39,7 @@ I am currently applying for **PhD positions** in HCI, ubiquitous and mobile heal
 | Project | Role & summary | Status |
 |---|---|---|
 | **HEAT** · World Bank funded, DIAL | Mixed-methods, nationwide study of tertiary student mental health; PSS/PHQ-9 screening, physiological stress monitoring, co-designed AI interventions | Ongoing · CHI 2027 under review |
-| **Shonchalon** · DIAL | ESP32-BLE + 9-axis IMU wearable and Android app monitoring five post-stroke rehabilitation exercises | PerCom 2027 under review |
+| **Shonchalon** · DIAL | ESP32-BLE + 9-axis IMU wearable and Android app for real-time recognition of, and feedback on, five post-stroke rehabilitation exercises | PerCom 2027 under review |
 | **Spondon** · DIAL | Low-cost multi-sensor stress wearable; HRV/GSR analysis with LOSO cross-validation | Published, COMPASS 2026 |
 | **Co-learning & Familiarization** · DIAL | Workshops on technology adoption among low-literate women, with custom stress-sensing hardware | Ongoing · IMWUT in prep |
 | **Physician stress during COVID-19** · with Dr. R. J. Rony & Dr. N. Hamed, Cardiff University | Analysis of long-term physician stress | JMIR Mental Health in prep |
