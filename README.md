@@ -13,7 +13,7 @@ I am currently applying for **PhD positions** in HCI, ubiquitous and mobile heal
 
 ### Research interests
 - Human-centered design of technology for underserved populations
-- - Machine learning that generalizes across individuals (personalization, subject-independent evaluation)
+- Machine learning that generalizes across individuals (personalization, subject-independent evaluation)
 - Wearable and physiological sensing for stress and mental health
 - Low-cost health technology for the Global South
 
