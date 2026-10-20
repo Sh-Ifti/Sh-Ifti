@@ -44,7 +44,7 @@ I am currently applying for **PhD positions** in HCI, ubiquitous and mobile heal
 | **Co-learning & Familiarization** · DIAL | Workshops on technology adoption among low-literate women, with custom stress-sensing hardware | Ongoing · IMWUT in prep |
 | **Physician stress during COVID-19** · with Dr. R. J. Rony & Dr. N. Hamed, Cardiff University | Analysis of long-term physician stress | JMIR Mental Health in prep |
 | **Commuter stress in Dhaka** · with Dr. C. F. Choudhury, University of Leeds | Physiological stress of commuters measured with Empatica EmbracePlus | Ongoing |
-| **Teen ChatGPT use** · with Dr. T. Sharma, Penn State | Prompt-based study of how teenagers in Bangladesh use ChatGPT | Ongoing |
+| **Teen ChatGPT use** · with Dr. T. Sharma, Pennsylvania State University | Prompt-based study of how teenagers in Bangladesh use ChatGPT | Ongoing |
 
 ### Selected code
 | Repository | Summary | Tools |
