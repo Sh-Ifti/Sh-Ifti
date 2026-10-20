@@ -20,7 +20,7 @@ I am currently applying for **PhD positions** in HCI, ubiquitous and mobile heal
 ### Publications
 **Published**
 - **Spondon: A Low-Cost, Multi-Sensor Wearable for Understanding Stress in Resource-Constrained Countries**  
-  **Shahariar Ifti**, R. J. Rony, S. Chakraborty, A. Mahbub, N. Ahmed · *ACM COMPASS 2026 (Poster)* · [[Paper](https://doi.org/10.1145/3811242.3819996)]  
+  **Shahariar Ifti**, R. J. Rony, S. Chakraborty, A. Mahbub, N. Ahmed · *ACM COMPASS 2026 (Poster)* · [[Paper](https://doi.org/10.1145/3811242.3819996)] [[Code](https://github.com/Sh-Ifti/spondon-stress-wearable)]  
   ESP32 wearable built from locally available sensors (PPG, GSR, temperature). HRV and GSR features, Random Forest classification, and leave-one-subject-out (LOSO) evaluation to test generalization to unseen people; 75.0% accuracy for binary acute stress detection.
 
 **Under review**
@@ -43,7 +43,7 @@ I am currently applying for **PhD positions** in HCI, ubiquitous and mobile heal
 |---|---|---|
 | **HEAT** · World Bank funded, DIAL | Mixed-methods, nationwide study of tertiary student mental health; PSS/PHQ-9 screening, physiological stress monitoring, co-designed AI interventions | Ongoing · CHI 2027 under review |
 | **Shonchalon** · DIAL | ESP32-BLE + 9-axis IMU wearable and Android app for real-time recognition of, and feedback on, five post-stroke rehabilitation exercises | PerCom 2027 under review |
-| **Spondon** · DIAL | Low-cost multi-sensor stress wearable; HRV/GSR analysis with LOSO cross-validation | Published, COMPASS 2026 (Poster) |
+| [**Spondon**](https://github.com/Sh-Ifti/spondon-stress-wearable) · DIAL | Low-cost multi-sensor stress wearable; HRV/GSR analysis with LOSO cross-validation | Published, COMPASS 2026 (Poster) |
 | **Co-learning & Familiarization** · DIAL | Workshops on technology adoption among low-literate women, with custom stress-sensing hardware | Ongoing · IMWUT in prep |
 | **Physician stress during COVID-19** · with Dr. R. J. Rony & Dr. N. Hamed, Cardiff University | Analysis of long-term physician stress | JMIR Mental Health in prep |
 | **Commuter stress in Dhaka** · with Dr. C. F. Choudhury, University of Leeds | Physiological stress of commuters measured with Empatica EmbracePlus | Ongoing |
@@ -52,6 +52,7 @@ I am currently applying for **PhD positions** in HCI, ubiquitous and mobile heal
 ### Selected code
 | Repository | Summary | Tools |
 |---|---|---|
+| [Spondon Stress Detection](https://github.com/Sh-Ifti/spondon-stress-wearable) | Analysis code for my COMPASS 2026 paper: LOSO stress detection from PPG, GSR and temperature (75.0% on unseen participants) | Python, scikit-learn, SciPy |
 | [Sleep Monitoring Wearable](https://github.com/Sh-Ifti/sleep-monitoring-wearable) | Low-cost wrist wearable recording movement, heart rate and ambient light to estimate sleep duration and quality | Arduino, MPU6050, PPG, Python |
 | [Bangladesh Flood Mapping](https://github.com/Sh-Ifti/bangladesh-flood-mapping) | Flood inundation maps (2020–2022) from Sentinel-1 SAR imagery and analysis of historical government flood records | Google Earth Engine, JavaScript |
 | [Airbnb Price Prediction](https://github.com/Sh-Ifti/airbnb-price-prediction-europe) | Six regression models compared; Random Forest best (R² = 0.854) for listing prices across ten European cities | Python, scikit-learn, pandas |
