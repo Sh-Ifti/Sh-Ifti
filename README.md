@@ -1,6 +1,6 @@
 # Hi, I'm Shahariar Ifti
 
-**Research Assistant & Data Scientist, [Design Inclusion and Access Lab (DIAL)](https://sites.google.com/view/nsuhci/home), North South University**  
+**Full-time Research Assistant, [Design Inclusion and Access Lab (DIAL)](https://sites.google.com/view/nsuhci/home), North South University**  
 Supervised by Dr. Nova Ahmed · B.Sc. in Computer Science & Engineering, NSU (2024)
 
 I work in **Human-Computer Interaction**, building and studying **low-cost wearable and physiological sensing systems for health and wellbeing in resource-constrained settings**. My work spans custom sensing hardware (ESP32, PPG, GSR, IMU), machine learning on physiological signals such as HRV and GSR, and mixed-methods fieldwork with the communities these technologies are meant to serve.
@@ -47,7 +47,7 @@ I am currently applying for **PhD positions** in HCI, ubiquitous and mobile heal
 | **Co-learning & Familiarization** · DIAL | Workshops on technology adoption among low-literate women, with custom stress-sensing hardware | Ongoing · IMWUT in prep |
 | **Physician stress during COVID-19** · with Dr. R. J. Rony & Dr. N. Hamed, Cardiff University | Analysis of long-term physician stress | JMIR Mental Health in prep |
 | **Commuter stress in Dhaka** · with Dr. C. F. Choudhury, University of Leeds | Physiological stress of commuters measured with Empatica EmbracePlus | Ongoing |
-| **Teen ChatGPT use** · with Dr. T. Sharma, Pennsylvania State University | Prompt-based study of how teenagers in Bangladesh use ChatGPT | Ongoing |
+| **Cross-Cultural Safety for Youth in GenAI** · with Dr. T. Sharma, Pennsylvania State University | ChatGPT prompt-based study of teenagers in Bangladesh (Bangladesh team) | Ongoing |
 
 ### Selected code
 | Repository | Summary | Tools |
