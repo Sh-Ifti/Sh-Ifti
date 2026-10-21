@@ -41,7 +41,7 @@ I am currently applying for **PhD positions** in HCI, ubiquitous and mobile heal
 ### Research projects
 | Project | Role & summary | Status |
 |---|---|---|
-| **HEAT** · World Bank funded, DIAL | Mixed-methods, nationwide study of tertiary student mental health; PSS/PHQ-9 screening, physiological stress monitoring, co-designed AI interventions | Ongoing · CHI 2027 under review |
+| **HEAT** · World Bank funded, DIAL | Mixed-methods, nationwide study of tertiary student mental health; PSS, PHQ-9, GAD-7 screening, physiological stress monitoring, co-designed AI interventions | Ongoing · CHI 2027 under review |
 | **Shonchalon** · DIAL | ESP32-BLE + 9-axis IMU wearable and Android app for real-time recognition of, and feedback on, five post-stroke rehabilitation exercises | PerCom 2027 under review |
 | [**Spondon**](https://github.com/Sh-Ifti/spondon-stress-wearable) · DIAL | Low-cost multi-sensor stress wearable; HRV/GSR analysis with LOSO cross-validation | Published, COMPASS 2026 (Short Paper) |
 | **Co-learning & Familiarization** · DIAL | Workshops on technology adoption among low-literate women, with custom stress-sensing hardware | Ongoing · IMWUT in prep |
