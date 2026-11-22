@@ -59,7 +59,7 @@ I am currently applying for **PhD positions** in HCI, ubiquitous and mobile heal
 - **[Regulated smart device for children](https://sh-ifti.github.io/projects/15_child_device/)** (CSE 498R, directed research): ARM TrustZone-based parental-control device design, informed by a survey of 46 parents
 
 ### Skills
-**Research methods:** mixed methods, user studies, workshops and co-design, PSS / PHQ-9 instruments  
+**Research methods:** mixed methods, user studies, workshops, and co-design  
 **Sensing & hardware:** ESP32, Arduino, BLE, ICM20948 IMU, MAX30102, GSR, Empatica EmbracePlus  
 **Signal analysis & ML:** HRV and GSR feature extraction, Random Forest, LOSO cross-validation, scikit-learn, pandas, NumPy, Matplotlib, deep learning  
 **Programming:** Python, C++, Java, JavaScript, SQL, Android  
