@@ -23,12 +23,8 @@ I am currently applying for **PhD positions** in HCI, ubiquitous and mobile heal
   **Shahariar Ifti**, Rahat Jahangir Rony, Shuvashish Chakraborty, Asif Mahbub, Nova Ahmed · *ACM COMPASS 2026 (Short Paper)* · [[Paper](https://doi.org/10.1145/3811242.3819996)] [[Code](https://github.com/Sh-Ifti/spondon-stress-wearable)]  
   ESP32 wearable built from locally available sensors (PPG, GSR, temperature). HRV and GSR features, Random Forest classification, and leave-one-subject-out (LOSO) evaluation to test generalization to unseen people; 75.0% accuracy for binary acute stress detection.
 
-**Under review**
-- **SHONCHALON: A Wearable for Real-Time Multi-Class Exercise Recognition and Feedback in Post-Stroke Upper-Limb Rehabilitation**  
-  Co-author · *IEEE PerCom 2027*  
-  Low-cost ESP32 + IMU wearable with an Android app that recognizes five rehabilitation exercises and gives real-time feedback
-
 **In preparation**
+- **SHONCHALON: A Wearable for Real-Time Multi-Class Exercise Recognition and Feedback in Post-Stroke Upper-Limb Rehabilitation** · Co-author · low-cost ESP32 + IMU wearable with an Android app for real-time feedback on five rehabilitation exercises · target: ACM CHI 2027 Late-Breaking Work
 - **"My Mind Is a Combination of My Body, My Money, and My Study": Contextualizing Mental Health Support Ecologies for Tertiary Students in Bangladesh** · Co-author · nationwide mixed-methods study of tertiary student mental health in Bangladesh (Alor Dhara project)
 - Technology adoption among low-literate women with physiological stress measurement and family-based mentoring · target: ACM IMWUT
 - Long-term stress among physicians during the COVID-19 pandemic (with Cardiff University) · target: JMIR Mental Health
@@ -40,7 +36,7 @@ I am currently applying for **PhD positions** in HCI, ubiquitous and mobile heal
 | Project | Role & summary | Status |
 |---|---|---|
 | **Alor Dhara** (HEAT subproject) · World Bank funded, DIAL | Mixed-methods, nationwide study of tertiary student mental health; PSS, PHQ-9, GAD-7 screening, physiological stress monitoring, co-designed AI interventions | Ongoing · manuscript in preparation |
-| **Shonchalon** · DIAL | ESP32-BLE + 9-axis IMU wearable and Android app for real-time recognition of, and feedback on, five post-stroke rehabilitation exercises | PerCom 2027 under review |
+| **Shonchalon** · DIAL | ESP32-BLE + 9-axis IMU wearable and Android app for real-time recognition of, and feedback on, five post-stroke rehabilitation exercises | Preparing CHI 2027 LBW submission |
 | [**Spondon**](https://github.com/Sh-Ifti/spondon-stress-wearable) · DIAL | Low-cost multi-sensor stress wearable; HRV/GSR analysis with LOSO cross-validation | Published, COMPASS 2026 (Short Paper) |
 | **Co-learning & Familiarization** · DIAL | Workshops on technology adoption among low-literate women, with custom stress-sensing hardware | Ongoing · IMWUT in prep |
 | **Physician stress during COVID-19** · with Dr. R. J. Rony & Dr. N. Hamed, Cardiff University | Analysis of long-term physician stress | JMIR Mental Health in prep |
